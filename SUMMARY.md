@@ -24,3 +24,4 @@
 
 * [ORIGINAL REDDIT POST](https://www.reddit.com/r/BlueBubbles/comments/1938ock/stop\_using\_old\_methods\_heres\_a\_new\_one/?utm\_source=share\&utm\_medium=web3x\&utm\_name=web3xcss\&utm\_term=1\&utm\_content=share\_button)
 * [OLD METHODS FROM AIRMESSAGE](https://airmessage.org/help/guide/phone-number)
+* [OTHER METHODS ON BLUEBUBBLES DOCS](https://docs.bluebubbles.app/server/advanced/registering-a-phone-number-with-your-imessage-account)

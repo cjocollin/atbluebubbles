@@ -97,3 +97,7 @@ Check out the reactions to these methods:
 > — From [warscout11](https://www.reddit.com/user/warscout11/)
 
 ### [If all fails, please try the original AirMessage SIM swap methods!](https://airmessage.org/help/guide/phone-number)
+
+### OR
+
+### [Check out other methods on BlueBubbles Docs!](https://docs.bluebubbles.app/server/advanced/registering-a-phone-number-with-your-imessage-account)
