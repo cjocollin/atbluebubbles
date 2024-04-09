@@ -41,7 +41,7 @@ _This guide is also very **experimental** and hasn't been tested, but it's a gre
   * [Download the APK here (Beeper)](https://mini.beeper.com/Beeper\_Mini\_v1.2.58.apk)
     * _**This file download link may go down at anytime since the Beeper Mini page has been deleted from their website**_
   * [Download the APK here (Web Archive)](https://web.archive.org/web/20240329133435/https://mini.beeper.com/Beeper\_Mini\_v1.2.58.apk)
-  * [Download the APK here (Media Fire)](https://download1648.mediafire.com/0bqfa6btvm6gW4UKyVfdYkfWnpxnK8iwYLIt\_ccGsTx3DFbvVw7jP3ZxfsOI\_TzGGWx44kzV7q6T2nHEggQlfU7Do5M0pJWc4paiYB5OR3qeHD9zxgecqbJ6TQWlt5JUz8MoJV\_7wxVj9e\_v7eN-iaURSSaUErcheMYdpbW52WOy/71i613mdk89ouz3/Beeper\_Mini\_v1.2.58.apk)
+  * [Download the APK here (Media Fire)](https://download1648.mediafire.com/2gtkfqba1mcglCjR4Io0IUyFO1XE4e4bOmOvowkL2HDBYKlHlM7MCbUbYGC8V6\_4exHfIQ-8EzzritxP0ykSzUWgekx8Okrq9\_L1yyfZQlmXDJGLxpzKQ1Iz4IhxdiNDyeOStAPKu6KujM8CdAxVmPDBIuwfI4NdtYkGgTnkL1yu/u1r73jp6z9vjshx/Beeper\_Mini\_v1.2.58.apk)
 * A spare/throw-away Apple ID
   * [Make a new Apple ID here](https://appleid.apple.com/account)
 {% endhint %}
