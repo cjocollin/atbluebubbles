@@ -38,7 +38,8 @@ _This guide is also very **experimental** and hasn't been tested, but it's a gre
 * Beepserv-rewrite Tweak
   * [Download the tweak here](https://github.com/thatmarcel/beepserv-rewrite)
 * Beeper Mini _**(for iMessage)**_
-  * [Download the APK here](https://mini.beeper.com/Beeper\_Mini\_v1.2.58.apk)
+  * [Download the APK here (Link #1)](https://mini.beeper.com/Beeper\_Mini\_v1.2.58.apk)
+  * [Download the APK here (Link #2)](https://downloads.atbluebubbles.com/)
 * A spare/throw-away Apple ID
   * [Make a new Apple ID here](https://appleid.apple.com/account)
 {% endhint %}
