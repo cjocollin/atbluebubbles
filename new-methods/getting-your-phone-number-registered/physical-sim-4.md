@@ -35,4 +35,4 @@ This method is _sort of_ different from the other methods posted, but it require
 
 ***
 
-### Credits: [MatthewB92](https://www.reddit.com/user/MatthewB92/)
+### Credits: [MatthewB92](https://www.reddit.com/user/MatthewB92/) & [RadiatingLight](https://www.reddit.com/user/RadiatingLight/) (for proving that a similar method works for Verizon!)
