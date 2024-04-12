@@ -57,7 +57,7 @@ Xfinity
 {% hint style="warning" %}
 Verizon
 
-* Please check [Physical SIM #5](../new-methods/getting-your-phone-number-registered/physical-sim-5.md)
+* Please check [Physical SIM #4](../new-methods/getting-your-phone-number-registered/physical-sim-4.md) and [Physical SIM #5](../new-methods/getting-your-phone-number-registered/physical-sim-5.md)
 {% endhint %}
 
 {% hint style="warning" %}

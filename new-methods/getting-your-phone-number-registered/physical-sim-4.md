@@ -15,7 +15,7 @@ layout:
 # 📶 Physical SIM #4
 
 {% hint style="info" %}
-This is method has been reported to work for Xfinity, but it may work for other carriers as well.
+This is method has been reported to work for Xfinity and Verizon, but it may work for other carriers as well.
 {% endhint %}
 
 {% hint style="warning" %}
