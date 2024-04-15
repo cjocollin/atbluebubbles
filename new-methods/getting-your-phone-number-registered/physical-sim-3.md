@@ -15,7 +15,7 @@ layout:
 # 📶 Physical SIM #3
 
 {% hint style="info" %}
-This is the modified version of [AirMessage's Method #1](https://airmessage.org/help/guide/phone-number#keeping-inactive-sim), reported to work for AT\&T users, may or may not work for other carriers.
+This is the modified version of [AirMessage's Method #1](https://airmessage.org/help/guide/phone-number#keeping-inactive-sim), reported to work for AT\&T and Cricket users, may or may not work for other carriers.
 
 * [Here's the original Reddit post for the modified Method #1](https://www.reddit.com/r/AirMessage/comments/fx9qku/working\_modified\_method\_1/?utm\_source=share\&utm\_medium=web3x\&utm\_name=web3xcss\&utm\_term=1\&utm\_content=share\_button)
 {% endhint %}
@@ -73,6 +73,6 @@ Please let me know if it does!
 
 ***
 
-### Credits: [DaFierce](https://www.reddit.com/user/DaFierce/)
+### Credits: [DaFierce](https://www.reddit.com/user/DaFierce/) & [Richu727](https://www.reddit.com/user/Richu727/) (for reporting that this works with Cricket!)
 
 #### Thank you for telling me about this method ☺️

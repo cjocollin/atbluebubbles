@@ -61,6 +61,12 @@ Verizon
 {% endhint %}
 
 {% hint style="warning" %}
+Cricket
+
+* Please check [Physical SIM #3](../new-methods/getting-your-phone-number-registered/physical-sim-3.md)
+{% endhint %}
+
+{% hint style="warning" %}
 Redpocket
 
 * Not sure if the same methods that work with Verizon and AT\&T will work with Redpocket, please let me know if one of the methods worked for this carrier!
