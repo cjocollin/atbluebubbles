@@ -40,8 +40,8 @@ description: >-
 [getting-your-phone-number-registered](new-methods/getting-your-phone-number-registered/)
 {% endcontent-ref %}
 
-{% content-ref url="new-methods/registered-with-beepserv.md" %}
-[registered-with-beepserv.md](new-methods/registered-with-beepserv.md)
+{% content-ref url="new-methods/beepserv-no-jailbreak.md" %}
+[beepserv-no-jailbreak.md](new-methods/beepserv-no-jailbreak.md)
 {% endcontent-ref %}
 
 ## Reactions 🙌

@@ -12,7 +12,7 @@ layout:
     visible: false
 ---
 
-# 💭 Registered with Beepserv
+# 💭 Beepserv (Jailbroken)
 
 {% hint style="warning" %}
 While using the Beepserv tweak on a jailbroken iPhone, it is recommended that you use a spare Apple ID.

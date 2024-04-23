@@ -18,7 +18,8 @@
   * [📶 Physical SIM #5](new-methods/getting-your-phone-number-registered/physical-sim-5.md)
   * [📲 eSIM #1](new-methods/getting-your-phone-number-registered/esim-1.md)
   * [📲 eSIM #2](new-methods/getting-your-phone-number-registered/esim-2.md)
-* [💭 Registered with Beepserv](new-methods/registered-with-beepserv.md)
+* [💭 Beepserv (Jailbroken)](new-methods/beepserv-jailbroken.md)
+* [💭 Beepserv (No Jailbreak)](new-methods/beepserv-no-jailbreak.md)
 
 ***
 
