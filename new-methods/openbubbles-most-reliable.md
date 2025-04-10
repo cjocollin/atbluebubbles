@@ -1,4 +1,5 @@
 ---
+hidden: true
 layout:
   title:
     visible: true
@@ -12,7 +13,7 @@ layout:
     visible: false
 ---
 
-# 💭 Beepserv (No Jailbreak)
+# 💭 OpenBubbles (Most Reliable)
 
 {% hint style="warning" %}
 While using the Beepserv, it is recommended that you use a spare Apple ID.
@@ -20,18 +21,18 @@ While using the Beepserv, it is recommended that you use a spare Apple ID.
 * Apple has been cracking down on _\[their own]_ users for using Beeper/Beeper Mini. It even caused Beeper to remove iMessage **completely** from their platform.
 {% endhint %}
 
-{% hint style="danger" %}
-Using Beeper is still a tricky situation, please continue with caution.
+{% hint style="info" %}
+**OpenBubbles is a fork of the popular app, BlueBubbles! It offers in-app iMessage registration with the help of a Mac or a Relay server on an iPhone!**
 
-* Use a spare/throw-away Apple ID as it could get you, or your device, banned from using iMessage on any device.
+It also supports emoji reactions, text styles, effects, Facetime, FindMy, Photo Album sharing, etc!
 
-_This guide is also very **experimental** and hasn't been tested, but it's a great theory that **may or may** not work. So please continue with caution._
+This is the safest method I've seen and have been using and I know others would enjoy this as much as I do!
 {% endhint %}
 
 ***
 
 {% hint style="warning" %}
-**Requirements for Beepserv:**
+**Requirements for OpenBubbles:**
 
 * iPhone 6S and above _**(TrollStore compatible)**_
 * Android Device
@@ -64,7 +65,7 @@ For full guides on specific iPhones and iOS, please check [Installing TrollStore
 
 <details>
 
-<summary>Installing Beepserv Installer and registering your number</summary>
+<summary>Installing Beepserv Installer and registering your numberO</summary>
 
 1. Install Sideloadly or AltStore _(The link is posted above with the requirements)_&#x20;
 2. After setting up Sideloadly or AltStore, you'll need to sideload the Beepserv Installer IPA onto your iPhone _**(An Apple ID is required to sideload)**_

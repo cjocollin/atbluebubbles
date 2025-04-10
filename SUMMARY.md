@@ -18,11 +18,12 @@
   * [📶 Physical SIM #5](new-methods/getting-your-phone-number-registered/physical-sim-5.md)
   * [📲 eSIM #1](new-methods/getting-your-phone-number-registered/esim-1.md)
   * [📲 eSIM #2](new-methods/getting-your-phone-number-registered/esim-2.md)
+* [💭 OpenBubbles (Most Reliable)](new-methods/openbubbles-most-reliable.md)
 * [💭 Beepserv (Jailbroken)](new-methods/beepserv-jailbroken.md)
 * [💭 Beepserv (No Jailbreak)](new-methods/beepserv-no-jailbreak.md)
 
 ***
 
-* [ORIGINAL REDDIT POST](https://www.reddit.com/r/BlueBubbles/comments/1938ock/stop\_using\_old\_methods\_heres\_a\_new\_one/?utm\_source=share\&utm\_medium=web3x\&utm\_name=web3xcss\&utm\_term=1\&utm\_content=share\_button)
+* [ORIGINAL REDDIT POST](https://www.reddit.com/r/BlueBubbles/comments/1938ock/stop_using_old_methods_heres_a_new_one/?utm_source=share\&utm_medium=web3x\&utm_name=web3xcss\&utm_term=1\&utm_content=share_button)
 * [OLD METHODS FROM AIRMESSAGE](https://airmessage.org/help/guide/phone-number)
 * [OTHER METHODS ON BLUEBUBBLES DOCS](https://docs.bluebubbles.app/server/advanced/registering-a-phone-number-with-your-imessage-account)
