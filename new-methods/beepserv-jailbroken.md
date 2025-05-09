@@ -14,6 +14,14 @@ layout:
 
 # 💭 Beepserv (Jailbroken)
 
+{% hint style="danger" %}
+Beepserv is no longer recommended as it tended to only work once and otherwise be unreliable.  Please use relayserver or ValidationRelay even if using Beeper Mini.\
+\
+This article remains for historic purposes.
+{% endhint %}
+
+***
+
 {% hint style="warning" %}
 While using the Beepserv tweak on a jailbroken iPhone, it is recommended that you use a spare Apple ID.
 
@@ -38,10 +46,10 @@ _This guide is also very **experimental** and hasn't been tested, but it's a gre
 * Beepserv-rewrite Tweak
   * [Download the tweak here](https://github.com/thatmarcel/beepserv-rewrite)
 * Beeper Mini _**(for iMessage)**_
-  * [Download the APK here (Beeper)](https://mini.beeper.com/Beeper\_Mini\_v1.2.58.apk)
+  * [Download the APK here (Beeper)](https://mini.beeper.com/Beeper_Mini_v1.2.58.apk)
     * _**This file download link may go down at anytime since the Beeper Mini page has been deleted from their website**_
-  * [Download the APK here (Web Archive)](https://web.archive.org/web/20240329133435/https://mini.beeper.com/Beeper\_Mini\_v1.2.58.apk)
-  * [Download the APK here (Media Fire)](https://www.mediafire.com/file/u1r73jp6z9vjshx/Beeper\_Mini\_v1.2.58.apk/file)
+  * [Download the APK here (Web Archive)](https://web.archive.org/web/20240329133435/https://mini.beeper.com/Beeper_Mini_v1.2.58.apk)
+  * [Download the APK here (Media Fire)](https://www.mediafire.com/file/u1r73jp6z9vjshx/Beeper_Mini_v1.2.58.apk/file)
 * A spare/throw-away Apple ID
   * [Make a new Apple ID here](https://appleid.apple.com/account)
 {% endhint %}
@@ -143,6 +151,6 @@ This can be a lengthy process, so if all fails, please try the [Physical SIM or 
 
 ***
 
-### Credits: [ThePoetWalsh57](https://www.reddit.com/r/beeper/comments/197tn08/comment/kibhihn/?utm\_source=share\&utm\_medium=web3x\&utm\_name=web3xcss\&utm\_term=1\&utm\_content=share\_button)
+### Credits: [ThePoetWalsh57](https://www.reddit.com/r/beeper/comments/197tn08/comment/kibhihn/?utm_source=share\&utm_medium=web3x\&utm_name=web3xcss\&utm_term=1\&utm_content=share_button)
 
 #### Thank you for a detailed guide to get our numbers registered with Beepserv correctly! ☺️

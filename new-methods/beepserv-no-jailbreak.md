@@ -14,6 +14,14 @@ layout:
 
 # 💭 Beepserv (No Jailbreak)
 
+{% hint style="danger" %}
+Beepserv is no longer recommended as it tended to only work once and otherwise be unreliable.  Please use relayserver or ValidationRelay even if using Beeper Mini.\
+\
+This article remains for historic purposes.
+{% endhint %}
+
+***
+
 {% hint style="warning" %}
 While using the Beepserv, it is recommended that you use a spare Apple ID.
 
