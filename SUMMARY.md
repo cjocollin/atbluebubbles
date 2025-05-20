@@ -26,6 +26,8 @@
 ***
 
 * [🔑 Alternate Method for Creating Apple IDs](alternate-method-for-creating-apple-ids.md)
+* [☁️ iCloud Contacts on Android](icloud-contacts-on-android.md)
 * [ORIGINAL REDDIT POST](https://www.reddit.com/r/BlueBubbles/comments/1938ock/stop_using_old_methods_heres_a_new_one/?utm_source=share\&utm_medium=web3x\&utm_name=web3xcss\&utm_term=1\&utm_content=share_button)
 * [OLD METHODS FROM AIRMESSAGE](https://airmessage.org/help/guide/phone-number)
 * [OTHER METHODS ON BLUEBUBBLES DOCS](https://docs.bluebubbles.app/server/advanced/registering-a-phone-number-with-your-imessage-account)
+* [🪟 OpenBubbles on Windows 11 with Contacts](openbubbles-on-windows-11-with-contacts.md)
